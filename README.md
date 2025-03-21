@@ -1,6 +1,6 @@
 # Upgradeable Smart Contracts with UUPS Pattern
 
-This repository demonstrates the implementation of **Upgradeable Smart Contracts** using the **UUPS (Universal Upgradeable Proxy Standard)** pattern. The project includes two versions of a smart contract (`BoxV1` and `BoxV2`) deployed via an **ERC1967 Proxy**. It showcases how to upgrade contract logic seamlessly while maintaining the contract's state.
+This repository demonstrates the implementation of **Upgradeable Smart Contracts** using the **UUPS (Universal Upgradeable Proxy Standard)** pattern. The project includes two versions of a smart contract (`BoxV1` and `BoxV2`) deployed via an **ERC1967 Proxy**. It showcases how to upgrade contract logic seamlessly while maintaining the contract's state
 
 ---
 
